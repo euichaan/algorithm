@@ -10,4 +10,4 @@
 - [프로그래머스](https://programmers.co.kr/learn/challenges) ➡️**소스코드 파일 이름이 P로 시작.**  
   
 ## 소수 판별 
-
+- [O(N), O(√N), O(Nlog(logN)) 으로 소수 판별하기](https://github.com/euichaan/algorithm/blob/main/src/primenumber.cpp)  
